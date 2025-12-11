@@ -22,8 +22,7 @@ with the current cells.
 The notebook will run to completetion automatically with the except of 3 areas 1) on connecting to google drive, it
 will ask you to authenticate with your google account 2) it will ask to get access to you HF_token 3 
 
-Note:it will take a while to run the full notebook.
+Note: it will take a while to run the full notebook.
 
 ## Results
-[![Poster Preview](poster_preview.png)](AdditionalFiles/EmergentTokenNeuronCircuits.pdf)
 The full poster is available [here](AdditionalFiles/EmergentTokenNeuronCircuits.pdf)
